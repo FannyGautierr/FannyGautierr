@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FannyGautierr
 - 👩🏻‍💻 I'm a student at IIM - Digital School Paris
-- 🌱 I’m currently learning JavaScript and PHP and frameworks like Vue.js and Symphony 
+- 🌱 I’m currently learning JavaScript and PHP
 - 📫 Contact :fannygautier92@gmail.com // [Linkedin](https://www.linkedin.com/in/fanny-gautier-2797041b4/)
 
 
