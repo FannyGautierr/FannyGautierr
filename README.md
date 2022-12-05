@@ -4,6 +4,7 @@
 # Contact
 - 📫 fannygautier92@gmail.com 
 - [Linkedin](https://www.linkedin.com/in/fanny-gautier-2797041b4/)
+- [My portfolio](https://portfolio-self-ten-27.vercel.app) 
 
 
 <!---
