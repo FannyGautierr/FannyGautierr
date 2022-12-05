@@ -1,6 +1,10 @@
 # 👋 Hi, I’m @FannyGautierr
 - 👩🏻‍💻 I'm a student at IIM - Digital School Paris
-- 🌱 I’m currently learning JavaScript and PHP
+- 🌱 I’m interested mostly in the back-end , I'm currently learning Laravel
+- 🌱  I also like front-end with frameworks like Vue
+
+ 
+
 # Contact
 - 📫 fannygautier92@gmail.com 
 - [Linkedin](https://www.linkedin.com/in/fanny-gautier-2797041b4/)
