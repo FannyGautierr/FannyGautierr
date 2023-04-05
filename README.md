@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **a React Native app**
 
-- 🌱 I’m currently learning **Vue, ReactNative and Laravel**
+- 🌱 I’m currently learning **Vue, React and Symfony**
 
 
  
