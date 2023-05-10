@@ -2,9 +2,7 @@
 
 - 👩🏻‍💻 I'm a student at IIM - Digital School Paris
 
-- 🔭 I’m currently working on **a React Native app**
-
-- 🌱 I’m currently learning **Vue, React and Symfony**
+- 🌱 I’m currently learning **Vue, Node.js and Symfony**
 
 
  
